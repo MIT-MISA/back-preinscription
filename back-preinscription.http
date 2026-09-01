@@ -1,0 +1,6 @@
+@back_preinscription_HostAddress = http://localhost:5211
+
+GET {{back_preinscription_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
